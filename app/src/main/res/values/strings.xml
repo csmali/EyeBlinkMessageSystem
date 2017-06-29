@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hasta İletişim Sistemi</string>
+
+    <string name="title_activity_hasta_ekle">HastaEkle</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_hasta_goster">HastaGoster</string>
+
+    <string name="title_activity_bildirimler">Bildirimler</string>
+
+    <string name="title_activity_hasta_sil">HastaSil</string>
+
+</resources>
